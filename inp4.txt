@@ -1,0 +1,1 @@
+A compiler is a computer software that transforms computer code written in one programming language (the source language) into another programming language (the target language). FORTRAN COBOL LISP are few examples. Study of compilers began in 1952 and is being improved till today 2018.
